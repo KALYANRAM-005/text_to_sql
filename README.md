@@ -98,8 +98,8 @@ foreach ($d in 'sqlite3.dll','libssl-1_1-x64.dll','libcrypto-1_1-x64.dll') {
 
 | What | Download | Zip file(s) inside |
 |------|----------|--------------------|
-| Data and databases | [data.zip](https://example.com/REPLACE-WITH-DATA-LINK) and [database.zip](https://example.com/REPLACE-WITH-DATABASE-LINK) | `data.zip`, `database.zip` |
-| **Trained models** (one link, both models) | [models](https://example.com/REPLACE-WITH-MODELS-LINK) | `text2sql_schema_item_classifier.zip` (RoBERTa schema classifier) and `text2sql-t5-base.zip` (fine-tuned T5) |
+| Data and databases | [data.zip](https://drive.google.com/file/d/19tsgBGAxpagULSl9r85IFKIZb4kyBGGu/view?usp=sharing) and [database.zip](https://drive.google.com/file/d/1s4ItreFlTa8rUdzwVRmUR2Q9AHnxbNjo/view?usp=share_link) | `data.zip`, `database.zip` |
+| **Trained models** (one link, both models) | [models](https://drive.google.com/drive/folders/1TcIQB2dBMTBqI8RvUFmot_DFwm_wyWav?usp=sharing) | `text2sql_schema_item_classifier.zip` (RoBERTa schema classifier) and `text2sql-t5-base.zip` (fine-tuned T5) |
 
 **Where to put the zip files.** Everything goes in the project folder, the one that contains `demo.ipynb`:
 
