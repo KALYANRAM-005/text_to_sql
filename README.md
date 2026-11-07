@@ -1,4 +1,4 @@
-> 🎥 **Presentation video:** [Watch on YouTube](https://www.youtube.com/watch?v=REPLACE-WITH-VIDEO-ID)
+> 🎥 **Presentation video:** [Watch on YouTube](https://youtu.be/jI8Tpgpajrs)
 
 # Text-to-SQL Demo: Ask a Database Questions in Plain English
 
